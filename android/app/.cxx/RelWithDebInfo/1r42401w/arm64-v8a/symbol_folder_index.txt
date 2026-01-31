@@ -1,0 +1,1 @@
+/Users/mac/Desktop/ListAndSell/android/app/build/intermediates/cxx/RelWithDebInfo/1r42401w/obj/arm64-v8a

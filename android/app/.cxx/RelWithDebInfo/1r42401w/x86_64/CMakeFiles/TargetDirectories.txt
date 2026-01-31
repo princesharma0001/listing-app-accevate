@@ -1,0 +1,15 @@
+/Users/mac/Desktop/ListAndSell/android/app/.cxx/RelWithDebInfo/1r42401w/x86_64/CMakeFiles/appmodules.dir
+/Users/mac/Desktop/ListAndSell/android/app/.cxx/RelWithDebInfo/1r42401w/x86_64/CMakeFiles/edit_cache.dir
+/Users/mac/Desktop/ListAndSell/android/app/.cxx/RelWithDebInfo/1r42401w/x86_64/CMakeFiles/rebuild_cache.dir
+/Users/mac/Desktop/ListAndSell/android/app/.cxx/RelWithDebInfo/1r42401w/x86_64/rnasyncstorage_autolinked_build/CMakeFiles/react_codegen_rnasyncstorage.dir
+/Users/mac/Desktop/ListAndSell/android/app/.cxx/RelWithDebInfo/1r42401w/x86_64/rnasyncstorage_autolinked_build/CMakeFiles/edit_cache.dir
+/Users/mac/Desktop/ListAndSell/android/app/.cxx/RelWithDebInfo/1r42401w/x86_64/rnasyncstorage_autolinked_build/CMakeFiles/rebuild_cache.dir
+/Users/mac/Desktop/ListAndSell/android/app/.cxx/RelWithDebInfo/1r42401w/x86_64/safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir
+/Users/mac/Desktop/ListAndSell/android/app/.cxx/RelWithDebInfo/1r42401w/x86_64/safeareacontext_autolinked_build/CMakeFiles/edit_cache.dir
+/Users/mac/Desktop/ListAndSell/android/app/.cxx/RelWithDebInfo/1r42401w/x86_64/safeareacontext_autolinked_build/CMakeFiles/rebuild_cache.dir
+/Users/mac/Desktop/ListAndSell/android/app/.cxx/RelWithDebInfo/1r42401w/x86_64/rnscreens_autolinked_build/CMakeFiles/react_codegen_rnscreens.dir
+/Users/mac/Desktop/ListAndSell/android/app/.cxx/RelWithDebInfo/1r42401w/x86_64/rnscreens_autolinked_build/CMakeFiles/edit_cache.dir
+/Users/mac/Desktop/ListAndSell/android/app/.cxx/RelWithDebInfo/1r42401w/x86_64/rnscreens_autolinked_build/CMakeFiles/rebuild_cache.dir
+/Users/mac/Desktop/ListAndSell/android/app/.cxx/RelWithDebInfo/1r42401w/x86_64/RNVectorIconsSpec_autolinked_build/CMakeFiles/react_codegen_RNVectorIconsSpec.dir
+/Users/mac/Desktop/ListAndSell/android/app/.cxx/RelWithDebInfo/1r42401w/x86_64/RNVectorIconsSpec_autolinked_build/CMakeFiles/edit_cache.dir
+/Users/mac/Desktop/ListAndSell/android/app/.cxx/RelWithDebInfo/1r42401w/x86_64/RNVectorIconsSpec_autolinked_build/CMakeFiles/rebuild_cache.dir
